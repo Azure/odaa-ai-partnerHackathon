@@ -39,6 +39,7 @@ Each mission builds on the previous one, taking you from foundational setup to a
 **Objective:** Establish Oracle Database@Azure as the system of record for AI workloads.
 
 You will:
+- Complete this lab end to end https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339
 - Provision Oracle Database@Azure
 - Bring your own structured data
 - Validate connectivity, security, and performance
