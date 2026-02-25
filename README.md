@@ -74,8 +74,7 @@ You will:
 ✅ **Outcome:** AI responses grounded in Oracle data using enterprise‑grade RAG patterns.
 
 ---
----
-### **Mission 6: Build an Agentic Solution in Microsoft Foundry**
+### **Mission 4: Build an Agentic Solution in Microsoft Foundry**
 
 **Objective:** Deliver a complete, production‑ready AI application.
 
