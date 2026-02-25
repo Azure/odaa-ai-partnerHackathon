@@ -37,7 +37,7 @@ Each mission builds on the previous one, taking you from foundational setup to a
 ### **Mission 1: Provision Oracle Database@Azure & Run Workloads**
 
 **Objective:** Establish Oracle Database@Azure as the system of record for AI workloads.
-
+<<How are we going to share the credits for users?>>
 You will:
 - Complete this lab end to end https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339
 - Provision Oracle Database@Azure
