@@ -29,20 +29,18 @@ Goal: Complete foundational Oracle labs and provide clear proof of completion.
 
 Official Oracle resources:
 - Create an Oracle Autonomous AI Database on Oracle AI Database@Azure: https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339
-- Oracle AI Database@Azure overview: https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html
 
 Expected completion:
 - Complete the official Oracle AI Database@Azure LiveLabs workshop.
-- Review Oracle Database 23ai and Oracle AI-related labs if available.
 - Capture completion proof (screenshots, completion pages, or notes).
 
 Suggested deliverable:
 - Lab completion proof package for Challenge 1.
 
-## Challenge 2: Understand Microsoft Fabric / IQ and badge path
+## Challenge 2: Understand Microsoft IQ and badge path
 
-Goal: Complete Microsoft IQ learning labs and provide proof of completion.
-
+Goal: Complete Microsoft IQ learning series and provide proof of completion.
+https://github.com/microsoft/iq-series
 Expected completion:
 - Complete Microsoft  modules for Fabric IQ, Work IQ, and Foundry IQ experiences.
 - Work through the IQ-series repo or associated exercises.
@@ -52,6 +50,7 @@ Suggested deliverable:
 - Lab completion proof package for Challenge 2.
 
 ## Challenge 3: Complete Oracle + AI enablement labs
+- Oracle AI Database@Azure overview: https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html
 
 Goal: Complete the assigned enablement labs and provide proof of completion.
 
@@ -65,7 +64,7 @@ Suggested deliverable:
 
 ## Open Hack: build an agent or agentic solution
 
-Goal: Use completed lab outputs to define and build a business use case with a cohesive end-to-end solution.
+Goal: Use completed lab experience to define and build a business use case with a cohesive end-to-end solution.
 
 Business use case expectation:
 - Clearly state the business problem, target users, and measurable impact.
@@ -73,20 +72,15 @@ Business use case expectation:
 - Demonstrate a working user journey from question or trigger to business outcome.
 
 Recommended patterns:
-- Oracle database data source -> Oracle MCP/Fabric/Power BI experience -> agentic workflow in Foundry
-- Oracle data + Copilot Studio experience -> Foundry agent with retrieval
-- Oracle data + Power Apps or Copilot experience + Microsoft IQ stack
-
+-https://github.com/Azure/Oracle-AI-Database-at-Azure
+- 
 ## Bonus: blueprint review and cohesive connection proposal
 
 A strong bonus submission includes:
-- Clarify prerequisites and role assignments earlier.
-- Make the Oracle-to-Microsoft integration path more explicit.
-- Add a troubleshooting section for common setup issues.
-- Show one end-to-end architecture example with security and governance included.
+-- https://github.com/Azure/Oracle-AI-Database-at-Azure (Leave us a star if you like what is published and also initiate a discussion on scope for improvements)
+- Oracle + Work IQ implementation.
+- Propose a new cohesive connection to build between Oracle and Microsoft ecosystems that doesnt exist today for AI solutioning.
 
-Also include a proposed new cohesive connection to build:
-- Example: Supplier payment inquiry copilot using Oracle as the system of record, Fabric/Power Apps for experience, and an agent workflow for grounded answers and actions.
 
 ## Repository structure
 
