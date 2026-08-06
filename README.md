@@ -95,6 +95,9 @@ A strong **bonus** submission includes:
 - Propose a new cohesive connection to build between Oracle and Microsoft ecosystems that doesnt exist today for AI solutioning.
 
 
-
+-Change the timeline mermaid diagram
+- Add judges section
+- Evaluation criteria
+- Chance to co-present and prizes section
 
 
