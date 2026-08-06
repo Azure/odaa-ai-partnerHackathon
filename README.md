@@ -24,6 +24,40 @@ It combines hands-on technical learning, badge-worthy enrichment, and an **Open 
 - Practical exposure to Microsoft IQ experiences and official AI blueprints by Oracle Database@Azure team.
 - A final Open Hack where participants define and build a business use-case-driven solution.
 - A clear path from experimentation to a compelling customer-ready story.
+The hackathon is run by Oracle and Microsoft product teams, with direct access to experts across both ecosystems.
+
+## At a glance
+
+| Item | Details |
+|---|---|
+| Hackathon window | Aug 25 - Sep 11 |
+| Week 1-2 focus | Awareness and upskilling |
+| Week 3 focus | Open Hack build and final demo |
+| Final due date | Sep 11 |
+| Live support | AMA series (Microsoft + Oracle) from Aug 25 - Sep 4 |
+| Ongoing support | Dedicated Teams channel for direct expert Q&A |
+
+## Visual timeline
+
+```mermaid
+gantt
+	title Oracle AI Database@Azure Data & AI Hackathon (Aug 25 - Sep 11)
+	dateFormat  YYYY-MM-DD
+	axisFormat  %b %d
+
+	section Weeks 1-2 (Awareness and Upskilling)
+	Challenges 1-3 labs             :active, w12labs, 2026-08-25, 2026-09-04
+	Proof of completion collection  :proof, 2026-08-25, 2026-09-04
+	AMA series (Microsoft + Oracle) :ama, 2026-08-25, 2026-09-04
+	Teams expert Q&A channel        :teamsqa, 2026-08-25, 2026-09-04
+
+	section Week 3 (Open Hack Build)
+	Build and polish Open Hack      :build, 2026-09-05, 2026-09-11
+	Finalize demo assets            :demo, 2026-09-05, 2026-09-11
+
+	section Milestone
+	Final project submission due    :milestone, due, 2026-09-11, 1d
+```
 
 ## Challenge 1: Understanding Oracle AI Database@Azure
 
