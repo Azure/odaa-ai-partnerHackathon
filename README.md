@@ -1,147 +1,111 @@
-# Welcome to the **Oracle Database@Azure Data & AI Hackathon**!  
-In this hackathon, you’ll complete guided missions that prepare you to build **AI‑powered, agentic applications** using **Oracle Database running inside Microsoft Azure**, combined with **Microsoft Fabric** and **Azure AI services**.
+# Oracle AI Database@Azure Data & AI Hackathon for Partners
 
-You’ll learn how to:
-- Run enterprise workloads on Oracle Database@Azure
-- Enable custom Copilots using Copilot Studio for natural‑language to SQL insights over Oracle data
-- Build Retrieval‑Augmented Generation (RAG) pipelines
-- Deliver a full **agentic AI solution** using Microsoft Foundry
+Welcome to a Partner-first hackathon experience designed to showcase how **Oracle AI Database@Azure**, **Oracle MCP** and **Microsoft IQ** can power real-world, AI-driven business solutions.
 
-Complete all missions and add your **own creative twist** to win exciting prizes.
+This event is built for partners who want to explore, learn, and co-create with confidence. 
 
----
+It combines hands-on technical learning, badge-worthy enrichment, and an Open Hack opportunity to build a compelling agentic solution that demonstrates business value across Oracle AI Database@Azure, Oracle MCP,Microsoft Foundry, and Microsoft IQ.
 
-## 🚀 Quick Start
+## Why this hackathon matters for partners
 
-1. Fork this repository  
-2. Clone locally or open in GitHub Codespaces  
-3. Complete **Missions 1–5** in order  
-4. Review submission instructions in `open-hack.md`  
-5. Submit your final project before the deadline
+- Build credibility by solving a practical, modern data + AI scenario.
+- Strengthen your technical story across Oracle and Microsoft ecosystems.
+- Gain exposure to enterprise-grade patterns for RAG, copilots, and agentic workflows.
+- Create a reusable demo narrative that can be shared with customers and stakeholders.
+- Accelerate learning through guided challenges, labs, and an open-ended innovation track.
+- Position your team as a trusted advisor for enterprise AI modernization.
 
----
+## What partners will experience
 
-## 📅 Important Dates
+- A structured 3-challenge journey focused on completing labs and collecting proof of completion.
+- Hands-on exploration of Oracle AI Database@Azure and AI integration capabilities.
+- Practical exposure to Microsoft IQ experiences and official AI blueprints by Oracle Database@Azure team.
+- A final Open Hack where participants define and build a business use-case-driven solution.
+- A clear path from experimentation to a compelling customer-ready story.
 
-- **Live walkthroughs:** <<TBD>>  
-- **Submission deadline:** <<TBD>>
+## Challenge 1: Understand Oracle AI Database@Azure and ODAA
 
----
+Goal: Complete foundational Oracle labs and provide clear proof of completion.
 
-## 🧭 Mission Overview
+Official Oracle resources:
+- Create an Oracle Autonomous AI Database on Oracle AI Database@Azure: https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339
+- Oracle AI Database@Azure overview: https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html
 
-Each mission builds on the previous one, taking you from foundational setup to a complete **Oracle Database@Azure–powered agentic AI application**.
+Expected completion:
+- Complete the official Oracle AI Database@Azure LiveLabs workshop.
+- Review Oracle Database 23ai and Oracle AI-related labs if available.
+- Capture completion proof (screenshots, completion pages, or notes).
 
----
+Suggested deliverable:
+- Lab completion proof package for Challenge 1.
 
-### **Mission 1: Provision Oracle Database@Azure & Run Workloads**
+## Challenge 2: Understand Microsoft Fabric / IQ and badge path
 
-**Objective:** Establish Oracle Database@Azure as the system of record for AI workloads.
-<<How are we going to share the credits for users?>>
-You will:
-- Complete this lab end to end https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339
-- Provision Oracle Database@Azure
-- Bring your own structured data
-- Validate connectivity, security, and performance
-- Run baseline workloads in Azure‑hosted Oracle Database
+Goal: Complete Microsoft IQ learning labs and provide proof of completion.
 
-✅ **Outcome:** A production‑ready Oracle database running inside Azure datacenters, ready for AI scenarios.
+Expected completion:
+- Complete Microsoft  modules for Fabric IQ, Work IQ, and Foundry IQ experiences.
+- Work through the IQ-series repo or associated exercises.
+- Save completion proof (badges, screenshots, links, or completion confirmations).
 
----
+Suggested deliverable:
+- Lab completion proof package for Challenge 2.
 
-### **Mission 2: Enable custom Copilots in Copilot Studio**
+## Challenge 3: Complete Oracle + AI enablement labs
 
-**Objective:** Democratize data access using natural language.
+Goal: Complete the assigned enablement labs and provide proof of completion.
 
-You will:
-- Enable custom copilots using Oracle database connector using Microsoft's low code platform - Copilot Studio
-- Ask natural‑language questions and generate SQL automatically
-- Validate insight generation without writing SQL manually
+Expected completion:
+- Finish the Challenge 3 lab track assigned by the organizers.
+- Capture proof of completion for each required lab or exercise.
+- Note key outputs that can be reused in Open Hack.
 
-✅ **Outcome:** Natural‑language–driven insights over Oracle data, lowering the barrier to data exploration.
+Suggested deliverable:
+- Lab completion proof package for Challenge 3.
 
----
+## Open Hack: build an agent or agentic solution
 
-### **Mission 3: Build RAG Pipelines**
+Goal: Use completed lab outputs to define and build a business use case with a cohesive end-to-end solution.
 
-**Objective:** Ground AI responses in trusted enterprise Oracle data.
+Business use case expectation:
+- Clearly state the business problem, target users, and measurable impact.
+- Show how Oracle AI Database@Azure and Microsoft IQ capabilities connect in one solution flow.
+- Demonstrate a working user journey from question or trigger to business outcome.
 
-You will:
-- Generate and store embeddings from Oracle data
-- Implement semantic and hybrid search
-- Build Retrieval‑Augmented Generation (RAG) pipelines
+Recommended patterns:
+- Oracle database data source -> Oracle MCP/Fabric/Power BI experience -> agentic workflow in Foundry
+- Oracle data + Copilot Studio experience -> Foundry agent with retrieval
+- Oracle data + Power Apps or Copilot experience + Microsoft IQ stack
 
-✅ **Outcome:** AI responses grounded in Oracle data using enterprise‑grade RAG patterns.
+## Bonus: blueprint review and cohesive connection proposal
 
----
-### **Mission 4: Build an Agentic Solution in Microsoft Foundry**
+A strong bonus submission includes:
+- Clarify prerequisites and role assignments earlier.
+- Make the Oracle-to-Microsoft integration path more explicit.
+- Add a troubleshooting section for common setup issues.
+- Show one end-to-end architecture example with security and governance included.
 
-**Objective:** Deliver a complete, production‑ready AI application.
+Also include a proposed new cohesive connection to build:
+- Example: Supplier payment inquiry copilot using Oracle as the system of record, Fabric/Power Apps for experience, and an agent workflow for grounded answers and actions.
 
-You will:
-- Build an agentic solution using Microsoft Foundry
-- Orchestrate tools, RAG pipelines, and SQL queries
-- Expose functionality via APIs
-- Demonstrate automation, reasoning, and decision support
+## Repository structure
 
-✅ **Outcome:** A cohesive agentic AI application combining:
-- Oracle Database@Azure  
-- Azure AI Search  
-- Microsoft Foundry  
+- [README.md](README.md): challenge-based overview and navigation
+- [open-hack.md](open-hack.md): submission and judging guidance
+- [hackathon-roadmap.md](hackathon-roadmap.md): detailed execution plan
+- [blueprints-review-template.md](blueprints-review-template.md): suggested blueprint feedback template
+- [missions/README.md](missions/README.md): mission map and expected outcomes
 
----
+## Suggested workflow
 
-## 🧪 Open Hack
+1. Finish Challenge 1 and document your Oracle setup.
+2. Complete Challenge 2 and record your badge evidence.
+3. Complete Challenge 3 labs and collect proof.
+4. Use Open Hack to define the business use case and build the cohesive demo.
 
-After completing the missions, extend your solution with a **creative Open Hack project**.
+## Recommended resources
 
-### What You’ll Build
-- Embeddings and semantic search over Oracle data
-- REST or ORDS endpoints for data and AI access
-- An AI agent that answers questions grounded in Oracle Database@Azure workloads.
----
+- Oracle LiveLabs: https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339
+- Microsoft Fabric documentation: https://learn.microsoft.com/fabric/
+- Microsoft Foundry documentation: https://learn.microsoft.com/azure/ai-foundry/
 
-## 🏆 How You’re Evaluated
-
-Projects are evaluated using the official Open Hack criteria:
-
-### **1. Problem Understanding**
-- Clear project type (Chatbot or Search)
-- Oracle Database@Azure as the primary data source
-- Correct RAG implementation
-
-### **2. Innovation & Creativity**
-- Original approach
-- Creative use of embeddings or semantic search
-- Thoughtful UX or unique data usage
-
-### **3. Technical Execution**
-- Sound architecture
-- Reproducible setup
-- Focused scope
-- Clear documentation
-
-### **4. Insight & Impact**
-- Meaningful outcomes
-- Depth of analysis
-- Real‑world applicability
-
----
-
-## 💡 Inspiration
-
-<<Add Azure Fridays Demo>>
-<<Ignite Demos>>
-<<Oracle AI world Demo>>
-
----
-
-## ✅ Final Deliverables
-
-By the end of this Datathon, you will have:
-- Oracle Database@Azure as a trusted AI data foundation
-- Natural‑language SQL insights usign Custom Copilots for Business Users
-- Enterprise‑grade RAG pipelines
-- A complete agentic AI application
-
-Good luck—and build something impactful!
