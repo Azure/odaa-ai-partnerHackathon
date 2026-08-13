@@ -28,54 +28,28 @@ The hackathon is run by Oracle and Microsoft product teams, with direct access t
 
 ## At a glance
 
-| Item | Details |
-|---|---|
-| Hackathon window | Aug 25 - Sep 11 |
-| Week 1-2 focus | Awareness and upskilling |
-| Week 3 focus | Open Hack build and final demo |
-| Final due date | Sep 11 |
-| Live support | AMA series (Microsoft + Oracle) from Aug 25 - Sep 4 |
-| Ongoing support | Dedicated Teams channel for direct expert Q&A |
+<img width="1536" height="878" alt="image" src="https://github.com/user-attachments/assets/f19a949e-fe0d-49f2-a0f9-38f54dcd6283" />
 
-## Visual timeline
 
-```mermaid
-gantt
-	title Oracle AI Database@Azure Data & AI Hackathon (Aug 25 - Sep 11)
-	dateFormat  YYYY-MM-DD
-	axisFormat  %b %d
-
-	section Weeks 1-2 (Awareness and Upskilling)
-	Challenges 1-3 labs             :active, w12labs, 2026-08-25, 2026-09-04
-	Proof of completion collection  :proof, 2026-08-25, 2026-09-04
-	AMA series (Microsoft + Oracle) :ama, 2026-08-25, 2026-09-04
-	Teams expert Q&A channel        :teamsqa, 2026-08-25, 2026-09-04
-
-	section Week 3 (Open Hack Build)
-	Build and polish Open Hack      :build, 2026-09-05, 2026-09-11
-	Finalize demo assets            :demo, 2026-09-05, 2026-09-11
-
-	section Milestone
-	Final project submission due    :milestone, due, 2026-09-11, 1d
-```
+## 📚 Learn & Earn (Sep 1 - Sep 14)
 
 ## Challenge 1: Understanding Oracle AI Database@Azure
 
-**Create an **Oracle Autonomous AI Database** on **Oracle AI Database@Azure**.**
-- **Goal**: Complete this [lab](https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339) and provide clear proof of completion.
+**Create an Oracle Autonomous AI Database on Oracle AI Database@Azure**
+- **Goal**: Complete this **[learning lab](https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339)** and provide clear  proof of completion.
 
 
 ## Challenge 2: Understanding Microsoft IQ 
 
 ****Work through the IQ-series and Complete **Microsoft IQ** modules for **Fabric IQ, Work IQ, and Foundry IQ **experiences.********
 
-**Goal**: Complete **[Microsoft IQ](https://github.com/microsoft/iqdeepdive)** learning series and provide proof of completion.
+- **Goal**: Complete **[Microsoft IQ](https://github.com/microsoft/iqdeepdive)** learning series and provide proof of completion.
 
 ## Challenge 3: Build a RAG
 **Build a working RAG application using Oracle Autonomous AI Database, Oracle AI Vector Search, and Azure OpenAI.**
 - **Goal**:Complete this [lab exercise](https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html) and provide proof of completion.
-
-## Open Hack: Build an agent or agentic solution
+## 🚀 Open Hack Build (Sep 15 - Sep 21)
+## Build an agent or agentic solution
 
 **Goal**: Use completed lab experience to define and build a business use case with a cohesive end-to-end solution.
 
@@ -91,13 +65,36 @@ Recommended patterns:
 
 A strong **bonus** submission includes:
 - Review of existing [AI Blueprints](https://github.com/Azure/Oracle-AI-Database-at-Azure) (Leave us a star if you like what is published and also initiate a discussion on scope for improvements)
-- Oracle + Work IQ implementation.
+- Oracle data + Work IQ implementation.
 - Propose a new cohesive connection to build between Oracle and Microsoft ecosystems that doesnt exist today for AI solutioning.
 
+## 🏆Final Submission & Showcase due by Sep 21
 
--Change the timeline mermaid diagram
-- Add judges section
-- Evaluation criteria
-- Chance to co-present and prizes section
+## Evaluation criteria
+| Category                            | Weight  | What Judges Look For                                                            |
+| ----------------------------------- | ------- | ------------------------------------------------------------------------------- |
+| 🎯 Business Value & Customer Impact | **30%** | Clear business problem, measurable outcomes, ROI, customer relevance            |
+| 🚀 Innovation & Creativity          | **20%** | Novel approach, unique use of AI, differentiated solution                       |
+| 🔗 Oracle + Microsoft Integration   | **20%** | Effective use of Oracle AI Database\@Azure together with Microsoft IQ capabilities |
+| 🏗️ Technical Excellence            | **15%** | Architecture quality, scalability, reliability, security considerations         |
+| 🎬 Demo Quality & Storytelling      | **10%** | Clear presentation, compelling narrative, working end-to-end scenario           |
+| 👥 User Experience & Adoption       | **5%**  | Ease of use, user journey, practical adoption potential                         |
 
+### 🏆 Grand Prize: Oracle AI Database@Azure Partner Innovation Award
 
+Awarded to the team that delivers the most compelling end-to-end AI solution, demonstrating strong business value, innovation, technical excellence, and effective use of Oracle AI Database@Azure and Microsoft AI capabilities.
+
+## Winner Recognition Includes:
+🏆 Oracle AI Database@Azure Partner Innovation Award
+
+📢 Featured solution spotlight across Oracle AI Database@Azure community channels
+
+🎤 Opportunity to co-present the winning solution with Microsoft and Oracle teams at upcoming conferences, partner events, and community showcases
+
+📝 Featured customer-ready solution story, architecture, or case study
+
+⭐ Recognition in the Oracle AI Database@Azure GitHub blueprint repository and hackathon showcase materials
+
+🎖️ Digital winner badge and certificate of achievement
+
+_The biggest prize is visibility and the opportunity to showcase your innovation to customers, partners, and industry leaders across the Oracle and Microsoft ecosystems._
