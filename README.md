@@ -80,11 +80,12 @@ A strong **bonus** submission includes:
 | 🎬 Demo Quality & Storytelling      | **10%** | Clear presentation, compelling narrative, working end-to-end scenario           |
 | 👥 User Experience & Adoption       | **5%**  | Ease of use, user journey, practical adoption potential                         |
 
-### 🏆 Grand Prize: Oracle AI Database@Azure Partner Innovation Award
+
+## 🏆 Grand Prize: Oracle AI Database@Azure Partner Innovation Award
 
 Awarded to the team that delivers the most compelling end-to-end AI solution, demonstrating strong business value, innovation, technical excellence, and effective use of Oracle AI Database@Azure and Microsoft AI capabilities.
 
-## Winner Recognition Includes:
+### Winner Recognition Includes:
 🏆 Oracle AI Database@Azure Partner Innovation Award
 
 📢 Featured solution spotlight across Oracle AI Database@Azure community channels
