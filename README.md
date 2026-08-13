@@ -69,7 +69,7 @@ gantt
 
 ****Work through the IQ-series and Complete **Microsoft IQ** modules for **Fabric IQ, Work IQ, and Foundry IQ **experiences.********
 
-**Goal**: Complete **[Microsoft IQ]([https://github.com/microsoft/iq-series](https://github.com/microsoft/iqdeepdive))** learning series and provide proof of completion.
+**Goal**: Complete **[Microsoft IQ](https://github.com/microsoft/iq-series](https://github.com/microsoft/iqdeepdive)** learning series and provide proof of completion.
 
 ## Challenge 3: Build a RAG
 **Build a working RAG application using Oracle Autonomous AI Database, Oracle AI Vector Search, and Azure OpenAI.**
