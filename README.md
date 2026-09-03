@@ -28,27 +28,28 @@ The hackathon is run by Oracle and Microsoft product teams, with direct access t
 
 ## At a glance
 
-<img width="1536" height="878" alt="image" src="https://github.com/user-attachments/assets/f19a949e-fe0d-49f2-a0f9-38f54dcd6283" />
+<img width="1024" height="1024" alt="flyer" src="https://github.com/user-attachments/assets/db49c732-dbc0-4895-bd5e-ebafb9ca1ec1" />
 
 
-## 📚 Learn & Earn (Sep 1 - Sep 14)
+## 📚 Learn & Earn (Sep 15 - Sep 21)
 
 ## Challenge 1: Understanding Oracle AI Database@Azure
 
 **Create an Oracle Autonomous AI Database on Oracle AI Database@Azure**
-- **Goal**: Complete this **[learning lab](https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339)** and provide clear  proof of completion.
+- **Goal**: Complete this **[learning lab](https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339)** to try your hands on Oracle AI Database@Azure and provide clear  proof of completion.
 
+## Challenge 2: Understanding Oracle MCP Server
+**Build a working RAG application using Oracle Autonomous AI Database, Oracle AI Vector Search, and Azure OpenAI.**
+- **Goal**:Complete this [lab exercise](https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html) and provide proof of completion.
 
-## Challenge 2: Understanding Microsoft IQ 
+## Challenge 3: Understanding Microsoft IQ 
 
 ****Work through the IQ-series and Complete **Microsoft IQ** modules for **Fabric IQ, Work IQ, and Foundry IQ **experiences.********
 
 - **Goal**: Complete **[Microsoft IQ](https://github.com/microsoft/iqdeepdive)** learning series and provide proof of completion.
 
-## Challenge 3: Build a RAG
-**Build a working RAG application using Oracle Autonomous AI Database, Oracle AI Vector Search, and Azure OpenAI.**
-- **Goal**:Complete this [lab exercise](https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html) and provide proof of completion.
-## 🚀 Open Hack Build (Sep 15 - Sep 21)
+  
+## 🚀 Open Hack Build (Sep 22 - October 2)
 ## Build an agent or agentic solution
 
 **Goal**: Use completed lab experience to define and build a business use case with a cohesive end-to-end solution.
@@ -68,7 +69,7 @@ A strong **bonus** submission includes:
 - Oracle data + Work IQ implementation.
 - Propose a new cohesive connection to build between Oracle and Microsoft ecosystems that doesnt exist today for AI solutioning.
 
-## 🏆Final Submission & Showcase due by Sep 21
+## 🏆Final Submission & Showcase due by October 2nd
 
 ## Evaluation criteria
 | Category                            | Weight  | What Judges Look For                                                            |
@@ -90,7 +91,7 @@ Awarded to the team that delivers the most compelling end-to-end AI solution, de
 
 📢 Featured solution spotlight across Oracle AI Database@Azure community channels
 
-🎤 Opportunity to co-present the winning solution with Microsoft and Oracle teams at upcoming conferences, partner events, and community showcases
+🎤 Opportunity to co-present the winning solution with Microsoft and Oracle teams at upcoming Oracle AI world and other upcoming conferences, partner events, and community showcases
 
 📝 Featured customer-ready solution story, architecture, or case study
 
