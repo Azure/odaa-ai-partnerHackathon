@@ -30,6 +30,17 @@ The hackathon is run by Oracle and Microsoft product teams, with direct access t
 
 <img width="1024" height="1024" alt="flyer" src="https://github.com/user-attachments/assets/db49c732-dbc0-4895-bd5e-ebafb9ca1ec1" />
 
+## 🎓 Learn Sessions
+
+Live sessions to help you kick off and get unstuck on each track. All times PT.
+
+| Session | Date | Time (PT) | Focus |
+|---|---|---|---|
+| Kickoff | Sep 15th | 9:00 AM - 10:00 AM | Hackathon KickOff, overview, challenge walkthrough, Q&A |
+| Oracle MCP | Sep 16th | 9:00 AM - 10:00 AM | Oracle MCP Server deep dive |
+| Microsoft IQ | Sep 21th | 9:00 AM - 10:00 AM | Microsoft IQ deep dive |
+
+> Registration/join links: TBD — will be shared via the hackathon Teams channel.
 
 ## 📚 Learn & Earn (Sep 15 - Sep 21)
 
