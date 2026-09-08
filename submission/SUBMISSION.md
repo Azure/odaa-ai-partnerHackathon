@@ -32,6 +32,5 @@ Guidelines:
 
 > IMPORTANT: Be sure to verify that your video link works before submitting! To verify, open the link in a private/incognito browser window.
 
-## Before You Submit
 
-Use [submission-template.md](./submission-template.md) to draft your submission content locally, then copy it into the GitHub Issue form when you're ready to submit.
+
