@@ -1,10 +1,11 @@
 # Oracle AI Database@Azure AI Hackathon for Partners
-<img width="1253" height="763" alt="image" src="https://github.com/user-attachments/assets/2c3a96e4-cf69-4c9e-b7bd-7ace2da9d635" />
+<img width="1536" height="1024" alt="Designer (43)" src="https://github.com/user-attachments/assets/fd3964aa-029e-4ced-a2e0-6ac369df7f09" />
+
 
 
 Welcome to a **Partner-first** hackathon experience designed to showcase how **Oracle AI Database@Azure**, **Oracle MCP** and **Microsoft IQ** can power real-world, AI-driven business solutions.
 
-This event is built for partners who want to explore, learn, and co-create with confidence. 
+This event is being organized by Oracle AI Database@Azure team for partners who want to explore, learn directly from Product teams, and co-create with confidence. 
 
 It combines hands-on technical learning, badge-worthy enrichment, and an **Open Hack** opportunity to build a compelling agentic solution that demonstrates business value across Oracle AI Database@Azure, Oracle MCP,Microsoft Foundry, and Microsoft IQ.
 
