@@ -82,6 +82,10 @@ A strong **bonus** submission includes:
 
 ## 🏆Final Submission & Showcase due by October 2nd
 
+## Submission Requirements
+
+See **[submission/SUBMISSION.md](./submission/SUBMISSION.md)** for repository and video demo requirements, and **[submission/submission-template.md](./submission/submission-template.md)** for a draft template to fill out before submitting your GitHub Issue.
+
 ## Evaluation criteria
 | Category                            | Weight  | What Judges Look For                                                            |
 | ----------------------------------- | ------- | ------------------------------------------------------------------------------- |

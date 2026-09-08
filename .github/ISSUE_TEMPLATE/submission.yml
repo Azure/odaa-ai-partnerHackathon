@@ -1,0 +1,101 @@
+name: 🏆 Open Hack Submission
+description: Submit your Oracle AI Database@Azure AI Hackathon Open Hack project
+title: "[Submission]: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting to the **Oracle AI Database@Azure AI Hackathon for Partners**!
+        Please fill out this form completely. Submissions are due by **October 2nd**.
+
+  - type: input
+    id: team-name
+    attributes:
+      label: Team Name
+      description: The name of your team or company
+    validations:
+      required: true
+
+  - type: input
+    id: team-members
+    attributes:
+      label: Team Members
+      description: List all team members and their GitHub handles
+      placeholder: "Jane Doe (@janedoe), John Smith (@johnsmith)"
+    validations:
+      required: true
+
+  - type: input
+    id: project-title
+    attributes:
+      label: Project Title
+      description: A short, descriptive name for your solution
+    validations:
+      required: true
+
+  - type: input
+    id: repo-link
+    attributes:
+      label: GitHub Repository Link
+      description: Link to your project's public GitHub repository
+      placeholder: "https://github.com/your-org/your-repo"
+    validations:
+      required: true
+
+  - type: input
+    id: video-link
+    attributes:
+      label: Video Demo Link
+      description: Link to your hosted demo video (YouTube unlisted, Vimeo, etc.). Verify it works in a private/incognito window before submitting.
+      placeholder: "https://youtu.be/xxxxxxx"
+    validations:
+      required: true
+
+  - type: textarea
+    id: business-problem
+    attributes:
+      label: Business Problem & Target Users
+      description: Clearly state the business problem, target users, and measurable impact.
+    validations:
+      required: true
+
+  - type: textarea
+    id: architecture
+    attributes:
+      label: Architecture & Approach
+      description: Describe your architecture and approach, including how Oracle AI Database@Azure, Oracle MCP, and Microsoft IQ (Fabric IQ, Work IQ, Foundry IQ) connect in one solution flow.
+    validations:
+      required: true
+
+  - type: textarea
+    id: setup-instructions
+    attributes:
+      label: Setup & Run Instructions
+      description: Confirm your repository README includes clear setup and run instructions, or summarize them here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: bonus
+    attributes:
+      label: Bonus (Optional)
+      description: |
+        Highlight any bonus work, such as:
+        - Review of existing AI Blueprints (with a star/discussion opened)
+        - Oracle data + Work IQ implementation
+        - A proposed new connection between Oracle and Microsoft ecosystems
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: requirements
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: My repository contains a completed solution, clear setup/run instructions, and a description of architecture and approach.
+          required: true
+        - label: My demo video shows the application running, the core user flow, and evidence that Oracle data is being retrieved and used by the AI.
+          required: true
+        - label: I verified my video link works by opening it in a private/incognito browser window.
+          required: true
