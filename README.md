@@ -21,7 +21,7 @@ It combines hands-on technical learning, badge-worthy enrichment, and an **Open 
 
 - A structured 3-challenge journey focused on completing labs and collecting proof of completion.
 - Hands-on exploration of Oracle AI Database@Azure and AI integration capabilities.
-- Practical exposure to Microsoft IQ experiences and official AI blueprints by Oracle Database@Azure team.
+- Practical exposure to Microsoft IQ experiences and official AI blueprints by Oracle AI Database@Azure team.
 - A final Open Hack where participants define and build a business use-case-driven solution.
 - A clear path from experimentation to a compelling customer-ready story.
 The hackathon is run by Oracle and Microsoft product teams, with direct access to experts across both ecosystems.
@@ -37,10 +37,10 @@ Live sessions to help you kick off and get unstuck on each track. All times PT.
 | Session | Date | Time (PT) | Focus |
 |---|---|---|---|
 | Kickoff | Sep 15th | 9:00 AM - 10:00 AM | Hackathon KickOff, overview, challenge walkthrough, Q&A |
-| Oracle MCP | Sep 16th | 9:00 AM - 10:00 AM | Oracle MCP Server deep dive |
+| Oracle MCP | Sep 17th | 9:00 AM - 10:00 AM | Oracle MCP Server deep dive |
 | Microsoft IQ | Sep 21th | 9:00 AM - 10:00 AM | Microsoft IQ deep dive |
 
-> Registration/join links: TBD — will be shared via the hackathon Teams channel.
+> Registration/join links: Will be shared via the hackathon Teams channel.
 
 ## 📚 Learn & Earn (Sep 15 - Sep 21)
 
@@ -50,8 +50,8 @@ Live sessions to help you kick off and get unstuck on each track. All times PT.
 - **Goal**: Complete this **[learning lab](https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339)** to try your hands on Oracle AI Database@Azure and provide clear  proof of completion.
 
 ## Challenge 2: Understanding Oracle MCP Server
-**Build a working RAG application using Oracle Autonomous AI Database, Oracle AI Vector Search, and Azure OpenAI.**
-- **Goal**:Complete this [lab exercise](https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html) and provide proof of completion.
+**Complete the Oracle MCP Server hands-on lab, configure and connect to the Oracle MCP Server, explore its capabilities, and demonstrate how it enables AI agents and applications to securely access Oracle Database resources. Submit proof of successful completion, including screenshots, configuration details, and a working demonstration of MCP interactions.**
+- **Goal**: Complete this [lab exercise](https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html) and provide proof of completion.
 
 ## Challenge 3: Understanding Microsoft IQ 
 
@@ -67,7 +67,7 @@ Live sessions to help you kick off and get unstuck on each track. All times PT.
 
 Business use case expectation:
 - Clearly state the business problem, target users, and measurable impact.
-- Show how Oracle AI Database@Azure and Microsoft IQ capabilities connect in one solution flow.
+- Show how Oracle AI Database@Azure, Oracle MCP and Microsoft IQ capabilities connect in one solution flow.
 - Demonstrate a working user journey from question or trigger to business outcome.
 
 Recommended patterns:
