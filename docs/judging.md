@@ -31,4 +31,9 @@ Awarded to the team that delivers the most compelling end-to-end AI solution, de
 
 _The biggest prize is visibility and the opportunity to showcase your innovation to customers, partners, and industry leaders across the Oracle and Microsoft ecosystems._
 
+## 👨‍⚖️ Judges
+
+<img width="1518" height="1440" alt="hackathon-judges-panel-v8" src="https://github.com/user-attachments/assets/a8afa513-c6ac-4c68-9ced-09b9d72e0854" />
+
+
 ⬅ Back to [README](../README.md)
