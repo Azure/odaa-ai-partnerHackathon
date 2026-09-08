@@ -29,7 +29,7 @@ The hackathon is run by Oracle and Microsoft product teams, with direct access t
 
 ## At a glance
 
-<img width="1024" height="1024" alt="flyer" src="https://github.com/user-attachments/assets/db49c732-dbc0-4895-bd5e-ebafb9ca1ec1" />
+<img width="1024" height="1024" alt="Designer (45)" src="https://github.com/user-attachments/assets/68824868-56d6-4b1f-b092-0ee1805d411a" />
 
 ## 🎓 Learn Sessions
 
