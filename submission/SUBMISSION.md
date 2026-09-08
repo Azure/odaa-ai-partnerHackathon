@@ -1,5 +1,7 @@
 # Submission Requirements
 
+⬅ Back to [README](../README.md)
+
 Submit your project by **[creating a GitHub Issue](../../../issues/new?template=submission.yml)** in this repository.
 
 ## Repository Requirements
@@ -31,6 +33,8 @@ Guidelines:
 - 2–5 minutes is recommended
 
 > IMPORTANT: Be sure to verify that your video link works before submitting! To verify, open the link in a private/incognito browser window.
+
+⬅ Back to [README](../README.md)
 
 
 

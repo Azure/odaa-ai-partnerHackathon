@@ -31,88 +31,12 @@ The hackathon is run by Oracle and Microsoft product teams, with direct access t
 
 <img width="1024" height="1024" alt="Designer (45)" src="https://github.com/user-attachments/assets/68824868-56d6-4b1f-b092-0ee1805d411a" />
 
-## 🎓 Learn Sessions
+## 📖 Table of Contents
 
-Live sessions to help you kick off and get unstuck on each track. All times PT.
-
-| Session | Date | Time (PT) | Focus |
-|---|---|---|---|
-| Kickoff | Sep 15th | 9:00 AM - 10:00 AM | Hackathon KickOff, overview, challenge walkthrough, Q&A |
-| Oracle MCP | Sep 17th | 9:00 AM - 10:00 AM | Oracle MCP Server deep dive |
-| Microsoft IQ | Sep 21th | 9:00 AM - 10:00 AM | Microsoft IQ deep dive |
-
-> Registration/join links: Will be shared via the hackathon Teams channel.
-
-## 📚 Learn & Earn (Sep 15 - Sep 21)
-
-## Challenge 1: Understanding Oracle AI Database@Azure
-
-**Create an Oracle Autonomous AI Database on Oracle AI Database@Azure**
-- **Goal**: Complete this **[learning lab](https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339)** to try your hands on Oracle AI Database@Azure and provide clear  proof of completion.
-
-## Challenge 2: Understanding Oracle MCP Server
-**Complete the Oracle MCP Server hands-on lab, configure and connect to the Oracle MCP Server, explore its capabilities, and demonstrate how it enables AI agents and applications to securely access Oracle Database resources. Submit proof of successful completion, including screenshots, configuration details, and a working demonstration of MCP interactions.**
-- **Goal**: Complete this [lab exercise](https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html) and provide proof of completion.
-
-## Challenge 3: Understanding Microsoft IQ 
-
-****Work through the IQ-series and Complete **Microsoft IQ** modules for **Fabric IQ, Work IQ, and Foundry IQ **experiences.********
-
-- **Goal**: Complete **[Microsoft IQ](https://github.com/microsoft/iqdeepdive)** learning series and provide proof of completion.
-
-  
-## 🚀 Open Hack Build (Sep 22 - October 2)
-## Build an agent or agentic solution
-
-**Goal**: Use completed lab experience to define and build a business use case with a cohesive end-to-end solution.
-
-Business use case expectation:
-- Clearly state the business problem, target users, and measurable impact.
-- Show how Oracle AI Database@Azure, Oracle MCP and Microsoft IQ capabilities connect in one solution flow.
-- Demonstrate a working user journey from question or trigger to business outcome.
-
-Recommended patterns:
-- Official Knowledge worker [AI blueprints](https://github.com/Azure/Oracle-AI-Database-at-Azure) published by **Oracle AI Database@Azure** team.
-  
-## Bonus
-
-A strong **bonus** submission includes:
-- Review of existing [AI Blueprints](https://github.com/Azure/Oracle-AI-Database-at-Azure) (Leave us a star if you like what is published and also initiate a discussion on scope for improvements)
-- Oracle data + Work IQ implementation.
-- Propose a new cohesive connection to build between Oracle and Microsoft ecosystems that doesnt exist today for AI solutioning.
+- **[Challenges](./docs/challenges.md)** — Learn Sessions schedule and Challenges 1-3 (Sep 15 - Sep 21)
+- **[Open Hack](./docs/openhack.md)** — Build your agentic solution and bonus opportunities (Sep 22 - October 2)
+- **[Submission Requirements](./submission/SUBMISSION.md)** — How and what to submit, due October 2nd
+- **[Judging](./docs/judging.md)** — Evaluation criteria and the Grand Prize
 
 ## 🏆Final Submission & Showcase due by October 2nd
 
-## Submission Requirements
-
-See **[submission/SUBMISSION.md](./submission/SUBMISSION.md)** for repository and video demo requirements, and **[submission/submission-template.md](./submission/submission-template.md)** for a draft template to fill out before submitting your GitHub Issue.
-
-## Evaluation criteria
-| Category                            | Weight  | What Judges Look For                                                            |
-| ----------------------------------- | ------- | ------------------------------------------------------------------------------- |
-| 🎯 Business Value & Customer Impact | **30%** | Clear business problem, measurable outcomes, ROI, customer relevance            |
-| 🚀 Innovation & Creativity          | **20%** | Novel approach, unique use of AI, differentiated solution                       |
-| 🔗 Oracle + Microsoft Integration   | **20%** | Effective use of Oracle AI Database\@Azure together with Microsoft IQ capabilities |
-| 🏗️ Technical Excellence            | **15%** | Architecture quality, scalability, reliability, security considerations         |
-| 🎬 Demo Quality & Storytelling      | **10%** | Clear presentation, compelling narrative, working end-to-end scenario           |
-| 👥 User Experience & Adoption       | **5%**  | Ease of use, user journey, practical adoption potential                         |
-
-
-## 🏆 Grand Prize: Oracle AI Database@Azure Partner Innovation Award
-
-Awarded to the team that delivers the most compelling end-to-end AI solution, demonstrating strong business value, innovation, technical excellence, and effective use of Oracle AI Database@Azure and Microsoft AI capabilities.
-
-### Winner Recognition Includes:
-🏆 Oracle AI Database@Azure Partner Innovation Award
-
-📢 Featured solution spotlight across Oracle AI Database@Azure community channels
-
-🎤 Opportunity to co-present the winning solution with Microsoft and Oracle teams at upcoming Oracle AI world and other upcoming conferences, partner events, and community showcases
-
-📝 Featured customer-ready solution story, architecture, or case study
-
-⭐ Recognition in the Oracle AI Database@Azure GitHub blueprint repository and hackathon showcase materials
-
-🎖️ Digital winner badge and certificate of achievement
-
-_The biggest prize is visibility and the opportunity to showcase your innovation to customers, partners, and industry leaders across the Oracle and Microsoft ecosystems._
