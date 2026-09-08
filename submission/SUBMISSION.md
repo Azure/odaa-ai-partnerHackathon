@@ -26,8 +26,8 @@ Options for hosting your video:
 
 Guidelines:
 
-- No voice narration required
-- Screen recording is sufficient
+- Voice narration is not mandatory but optional.
+- Screen recording is also sufficient
 - 2–5 minutes is recommended
 
 > IMPORTANT: Be sure to verify that your video link works before submitting! To verify, open the link in a private/incognito browser window.
