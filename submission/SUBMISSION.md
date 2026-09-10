@@ -2,7 +2,7 @@
 
 ⬅ Back to [README](../README.md)
 
-Submit your project by **[creating a GitHub Issue](../../../issues/new?template=submission.yml)** in this repository.
+Submit your project by **[creating a GitHub Issue](../../../issues/new?template=submission.yml)** in this repository.**The submissions are due by October 2nd 11:59 PM PST.**
 
 ## Repository Requirements
 
