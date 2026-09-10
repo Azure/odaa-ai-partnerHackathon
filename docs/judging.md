@@ -9,7 +9,8 @@
 | 🚀 Innovation & Creativity          | **20%** | Novel approach, unique use of AI, differentiated solution                       |
 | 🔗 Oracle + Microsoft Integration   | **20%** | Effective use of Oracle AI Database\@Azure together with Microsoft IQ capabilities |
 | 🏗️ Technical Excellence            | **15%** | Architecture quality, scalability, reliability, security considerations         |
-| 🎬 Demo Quality & Storytelling      | **10%** | Clear presentation, compelling narrative, working end-to-end scenario           |
+| 🎬 Demo Quality & Storytelling      | **5%** | Clear presentation, compelling narrative, working end-to-end scenario           |
+| 🚀 Production & Marketplace Readiness | **5%** | Demonstrates enterprise-grade security, scalability, observability, deployment automation, compliance readiness, and Azure Marketplace hosting capability. |
 | 👥 User Experience & Adoption       | **5%**  | Ease of use, user journey, practical adoption potential                         |
 
 ## 🏆 Grand Prize: Oracle AI Database@Azure Partner Innovation Award
