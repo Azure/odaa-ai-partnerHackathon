@@ -83,15 +83,17 @@ body:
   - type: textarea
     id: production-readiness
     attributes:
-      label: Production Readiness
+      label: Production & Microsoft Marketplace Readiness
       description: |
-        How ready is your solution for production? Describe what is implemented and tested, what is planned, and the remaining blockers. Production readiness is not required to submit; an honest assessment is.
-        Consider security and data privacy, AI safety and evaluation, scalability and reliability, monitoring, and deployment and rollback.
+        How ready is your solution for production deployment and publication on Microsoft Marketplace? Describe what is implemented and tested, what is planned, and the remaining gaps for each.
+        For production, consider security and data privacy, AI safety and evaluation, scalability and reliability, monitoring, and deployment and rollback. For Marketplace, outline the intended offer type, customer onboarding, support, and applicable publishing or certification requirements still to address. If Marketplace publication is not planned or the offer type is undecided, state that.
+        Production readiness and a published Marketplace offer are not required to submit; an honest assessment is.
       placeholder: |
         Current maturity (prototype / pilot / production-ready):
         Implemented safeguards and validation results:
-        Known limitations and production blockers:
-        Next steps to reach production:
+        Production gaps and next steps:
+        Microsoft Marketplace plans and intended offer type (or not planned / undecided):
+        Marketplace readiness gaps and next steps:
     validations:
       required: true
 
