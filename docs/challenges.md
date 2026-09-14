@@ -36,4 +36,17 @@ Complete the Oracle MCP Server hands-on lab, configure and connect to the Oracle
 
 - **Goal**: Complete **[Microsoft IQ](https://github.com/microsoft/iqdeepdive)** learning series and earn your badge after completion.
 
+### Prerequisites to complete this challenge and also to include Microsoft IQ in your Open Hack submission:
+- A Microsoft 365 tenant with access to the Global Administrator role
+- An E7 license, or E5 + Microsoft Teams Enterprise + Microsoft 365 Copilot licenses
+- Tenant enrollment in the Frontier Preview Program (for WebIQ access)
+- Tenant support for Agent 365 Autopilot accounts
+- An Azure subscription linked to the tenant
+- Microsoft Fabric capacity of F2 or higher
+- Access to gpt-5.4-mini or a similar model, with available quota
+  
+You can use an existing Oracle AI Database@Azure environment for the hackathon, provided it meets the prerequisites for your chosen solution. 
+You can also explore the [Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) for development sandbox options, subject to eligibility and availability. Confirm that your environment includes the required licenses, preview access, capacity, and model quota.
+
+
 ⬅ Back to [README](../README.md)
