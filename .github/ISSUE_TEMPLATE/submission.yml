@@ -81,6 +81,21 @@ body:
       required: true
 
   - type: textarea
+    id: production-readiness
+    attributes:
+      label: Production Readiness
+      description: |
+        How ready is your solution for production? Describe what is implemented and tested, what is planned, and the remaining blockers. Production readiness is not required to submit; an honest assessment is.
+        Consider security and data privacy, AI safety and evaluation, scalability and reliability, monitoring, and deployment and rollback.
+      placeholder: |
+        Current maturity (prototype / pilot / production-ready):
+        Implemented safeguards and validation results:
+        Known limitations and production blockers:
+        Next steps to reach production:
+    validations:
+      required: true
+
+  - type: textarea
     id: bonus
     attributes:
       label: Bonus (Optional)
