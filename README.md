@@ -31,6 +31,8 @@ The hackathon is run by Oracle and Microsoft product teams, with direct access t
 
 <img width="1024" height="1024" alt="Designer (46)" src="https://github.com/user-attachments/assets/f17ad72b-589f-4700-8da0-63f9720e6076" />
 
+Complete all three challenges to level up your skills, and add your own creative twist in the Open Hack for exciting prizes and a chance to co-present at upcming **Oracle AI world** and **MS Ignite.**
+
 ## 📖 Table of Contents
 
 - **[Challenges](./docs/challenges.md)** — Learn Sessions schedule and Challenges 1-3 (Sep 15 - Sep 21)
