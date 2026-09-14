@@ -34,7 +34,7 @@ _The biggest prize is visibility and the opportunity to showcase your innovation
 
 ## 👨‍⚖️ Judges
 
-<img width="1518" height="1440" alt="hackathon-judges-panel-v8" src="https://github.com/user-attachments/assets/a8afa513-c6ac-4c68-9ced-09b9d72e0854" />
+<img width="1536" height="1024" alt="Designer (48)" src="https://github.com/user-attachments/assets/fd402f0d-c09c-4986-9abc-b70ea7ce3632" />
 
 
 ⬅ Back to [README](../README.md)
