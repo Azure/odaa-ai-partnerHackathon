@@ -16,17 +16,24 @@ Live sessions to help you kick off and get unstuck on each track. All times PT.
 
 ## Challenge 1: Understanding Oracle AI Database@Azure
 
-**Create an Oracle Autonomous AI Database on Oracle AI Database@Azure**
-- **Goal**: Complete this **[learning lab](https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339)** to try your hands on Oracle AI Database@Azure and provide clear  proof of completion.
+Complete this to try your hands on Oracle AI Database@Azure.
 
-## Challenge 2: Understanding Oracle MCP Server
-**Complete the Oracle MCP Server hands-on lab, configure and connect to the Oracle MCP Server, explore its capabilities, and demonstrate how it enables AI agents and applications to securely access Oracle Database resources. Submit proof of successful completion, including screenshots, configuration details, and a working demonstration of MCP interactions.**
-- **Goal**: Complete this [lab exercise](https://docs.oracle.com/en/cloud/paas/multicloud/database-at-azure/latest/azlab/overview.html) and provide proof of completion.
+**Create an Oracle Autonomous AI Database on Oracle AI Database@Azure**
+- **Goal**:  **[learning lab](https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4339)** 
+
+**OR** 
+
+**Create Oracle Exadata Database Service on Exascale Infrastructure on Oracle Database@Azure**
+- **Goal**: **[learning lab](https://livelabs.oracle.com/ords/r/dbpm/livelabs/view-workshop?wid=4159&clear=180,RR&session=101581810605359)**
+
+## Challenge 2: Understanding Oracle MCP Server | Build an Enterprise AI Assistant with Microsoft Foundry, Oracle MCP, and Oracle AI Database@Azure
+Complete the Oracle MCP Server hands-on lab, configure and connect to the Oracle MCP Server, explore its capabilities, and demonstrate how it enables AI agents and applications to securely access Oracle Database resources. 
+- **Goal**:  **[learning lab](https://leoneila.github.io/cloud-database-services/exadata-database-service-mcp-server-oracle-database-at-azure/workshops/tenancy/)**
 
 ## Challenge 3: Understanding Microsoft IQ 
 
 ****Work through the IQ-series and Complete **Microsoft IQ** modules for **Fabric IQ, Work IQ, and Foundry IQ **experiences.********
 
-- **Goal**: Complete **[Microsoft IQ](https://github.com/microsoft/iqdeepdive)** learning series and provide proof of completion.
+- **Goal**: Complete **[Microsoft IQ](https://github.com/microsoft/iqdeepdive)** learning series and earn your badge after completion.
 
 ⬅ Back to [README](../README.md)
