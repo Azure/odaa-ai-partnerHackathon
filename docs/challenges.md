@@ -28,7 +28,7 @@ Complete this to try your hands on Oracle AI Database@Azure.
 
 ## Challenge 2: Understanding Oracle MCP Server | Build an Enterprise AI Assistant with Microsoft Foundry, Oracle MCP, and Oracle AI Database@Azure
 Complete the Oracle MCP Server hands-on lab, configure and connect to the Oracle MCP Server, explore its capabilities, and demonstrate how it enables AI agents and applications to securely access Oracle Database resources. 
-- **Goal**:  **[learning lab](https://leoneila.github.io/cloud-database-services/exadata-database-service-mcp-server-oracle-database-at-azure/workshops/tenancy/)**
+- **Goal**:  **[learning lab](https://oracle-livelabs.github.io/cloud-database-services/exadata-database-service-mcp-server-oracle-database-at-azure/workshops/tenancy/)**
 
 ## Challenge 3: Understanding Microsoft IQ 
 
